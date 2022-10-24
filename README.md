@@ -1,2 +1,0 @@
-# hex-code-genrator
- 
